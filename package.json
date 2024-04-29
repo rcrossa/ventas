@@ -1,0 +1,19 @@
+{
+  "name": "ventas",
+  "version": "1.0.0",
+  "description": "This is a proyect related to a demo ventas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcrossa/ventas.git"
+  },
+  "author": "Roberto Rossa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcrossa/ventas/issues"
+  },
+  "homepage": "https://github.com/rcrossa/ventas#readme"
+}
